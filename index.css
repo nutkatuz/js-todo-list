@@ -80,6 +80,9 @@ html, body {
   box-sizing: border-box;
   border-radius: 5px;
 }
+.todo:hover{
+  background-color: #6F6F6F;
+}
 
 .todo:last-child {
   margin-bottom: 0;
